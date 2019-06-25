@@ -29,7 +29,7 @@ function nextMove(square)
   }
   else
   {
-    setMessage("Please choose an empty box"); 
+    setMessage("Draw"); 
   }
   
 }
